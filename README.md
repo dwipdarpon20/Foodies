@@ -112,57 +112,76 @@ MongoDB          Cloudinary
 
 ---
 
-## 📸 Application Screenshots
+## Website Images
 
-### Home Page
-
-Landing page displaying featured restaurants and food items.
-
-### Restaurant Listing
-
-Browse all available restaurants.
-
-### Restaurant Details
-
-View detailed restaurant information and available menu items.
-
-### Menu Item Details
-
-Detailed information about selected food items.
-
-### Filter by Category
-
-Filter food items based on categories.
+### All Restaurants
+![All restaurants](Images/All%20restaurants.png)
+Description: A page displaying all registered restaurants.
 
 ### Cart
-
-Manage selected items before checkout.
+![Cart](Images/Cart.png)
+Description: The shopping cart page where users can view selected items.
 
 ### Checkout
+![Checkout](Images/Checkout.png)
+Description: The checkout page for finalizing purchases.
 
-Review order details and delivery information.
+### Customer Orders Page
+![Customer Orders Page](Images/Customer%20Orders%20Page.png)
+Description: A page displaying customer orders.
 
-### Payment
+### Filter by Category
+![Filter by Category](Images/Filter%20by%20Category.png)
+Description: Allows users to filter menu items by category.
 
-Secure payment interface powered by Stripe.
+### Item Details Owner
+![Item Details Owner](Images/Item%20Details%20Owner.png)
+Description: Detailed view of an item for the owner.
 
-### Customer Orders
+### Menu Item Details
+![Menu Item Details](Images/Menu%20Item%20Details.png)
+Description: Detailed view of menu items.
 
-View current and previous orders.
-
-### Restaurant Dashboard
-
-Dedicated dashboard for restaurant owners.
-
-### Menu Management
-
-Manage restaurant menu items efficiently.
+### New Owner
+![New Owner](Images/New%20Owner.png)
+Description: Interface for adding a new restaurant owner.
 
 ### Order Management
+![Order Management](Images/Order%20Management.png)
+Description: Page for managing orders.
 
-Track and manage incoming customer orders.
+### Payment
+![Payment](Images/Payment.png)
+Description: Payment processing interface.
 
----
+### Register
+![Register](Images/Register.png)
+Description: Registration page for new users.
+
+### Restaurant Owner Menu Management
+![Restaurant Owner Menu Management](Images/Restaurant%20Owner%20Menu%20Management.png)
+Description: Management interface for restaurant owners.
+
+### Restaurant Owner Dashboard
+![Restaurant Owner dashboard](Images/Restaurant%20Owner%20dashboard.png)
+Description: Dashboard for restaurant owners to manage their information.
+
+### Restaurant Page
+![Restaurant Page](Images/Restaurant%20Page.png)
+Description: Page displaying details of a specific restaurant.
+
+### Restaurant Profile
+![Restaurant Profile](Images/Restaurant%20Profile.png)
+Description: Profile page for a restaurant.
+
+### Home Page
+![Home Page](Images/home%20page.png)
+Description: The main landing page of the website.
+
+### Login
+![Login](Images/login.png)
+Description: User login page.
+
 
 ## 📂 Project Structure
 
