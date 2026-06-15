@@ -229,7 +229,7 @@ Before running the project, make sure you have:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/foodies.git
+git clone https://github.com/dwipdarpon20/foodies.git
 cd foodies
 ```
 
@@ -360,9 +360,9 @@ Passionate about Full Stack Development, Backend Engineering, System Design, and
 
 ### Connect With Me
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
-- Email: your-email@example.com
+- GitHub: https://github.com/dwipdarpon20
+- LinkedIn: https://linkedin.com/in/dwipdarpon
+- Email: dwipdarpon20@gmail.com
 
 ---
 
